@@ -1,7 +1,7 @@
-# Animal Species Classification
+# Animal Classification
 
 ## Overview
-This project is an animal species classification system that categorizes animals into three classes: Mammals, Reptiles, and Birds (Aves). The classification model is built using three different deep learning architectures: ResNet, VGG16, and AlexNet. Trained with 100 images of Mammals, 100 images of Aves, and 100 images of Reptiles
+This project is an animal classification system that categorizes animals into three classes: Mammals, Reptiles, and Birds (Aves). The classification model is built using three different deep learning architectures: ResNet, VGG16, and AlexNet. Trained with 100 images of Mammals, 100 images of Aves, and 100 images of Reptiles
 
 ## Technologies Used
 - Deep Learning Architectures: ResNet, VGG16, AlexNet
